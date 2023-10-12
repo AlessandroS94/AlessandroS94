@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alessandro
-- 👀 I’m interested in computer science 
+- 👀 I’m interested in computer science and bike
 - 🌱 I’m currently learning on computer science
-- 🚵‍
+- 🚵‍💻
 
 
 <!---
