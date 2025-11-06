@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alessandro
 - 👀 I’m interested in computer science and bike
 - 🌱 I’m currently learning on computer science
+- I'm working in ASL 4
 - 🚵‍💻
 
 
